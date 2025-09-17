@@ -2,7 +2,7 @@
 
 ## In Scope
 - Collection of housing market data (prices, rent, interest rates).  
-- Building an interactive dashboard (Power BI/Tableau).  
+- Building an interactive dashboard (Power BI).  
 - Providing affordability and trend insights.  
 - Stakeholder reporting features.  
 
