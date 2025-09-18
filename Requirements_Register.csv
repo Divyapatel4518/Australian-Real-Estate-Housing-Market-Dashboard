@@ -1,0 +1,5 @@
+ReqID,Requirement,Type,Impact (1-5),Effort (1-5),Urgency (1-5),WeightedScore
+R1,System must display affordability index by suburb,Functional,5,3,5,4.6
+R2,System must show YoY price and rent growth,Functional,4,4,4,3.6
+R3,System must provide borrower affordability metrics,Functional,5,4,4,4.1
+R4,System must enable rent vs. buy affordability comparison,Functional,4,2,5,4.3
