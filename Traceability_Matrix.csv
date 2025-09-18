@@ -1,0 +1,5 @@
+ReqID,UserStory,AcceptanceCriteria,DataSources
+R1,"As a planner, I want suburb affordability index so I can create fair housing policies.",Affordability index is displayed per suburb with filters.,ABS Census + Housing Price Index
+R2,"As an analyst, I want YoY growth data so I can identify hotspots.",System shows YoY growth % for both prices and rents.,ABS Housing + CoreLogic Rent Data
+R3,"As a lender, I want borrower affordability metrics so I can assess risk.",Borrower affordability index visible based on income vs repayment.,Mortgage Repayment Data + ABS Income
+R4,"As a buyer, I want rent vs buy comparison so I can decide confidently.",Comparison tool shows rent vs buy cost side-by-side.,ABS Rent Data + Mortgage Repayment Data
