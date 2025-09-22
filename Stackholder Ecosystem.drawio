@@ -1,0 +1,91 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.1.2 Chrome/138.0.7204.243 Electron/37.4.0 Safari/537.36" version="28.1.2">
+  <diagram name="Page-1" id="PB88HuKqQc8ouJn3L7J0">
+    <mxGraphModel dx="1042" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rJXc0lbmHIbQXguNLvOj-1" value="&#xa;Home Buyers / Renters&#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="100" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rJXc0lbmHIbQXguNLvOj-2" value="&#xa;Sellers / Real Estate Agents&#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="100" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rJXc0lbmHIbQXguNLvOj-3" value="&#xa;Banks &amp;amp; Lenders&#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="260" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rJXc0lbmHIbQXguNLvOj-4" value="&#xa;Government / Policy Makers&#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="250" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rJXc0lbmHIbQXguNLvOj-5" value="City Council Planners" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="745" y="250" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rJXc0lbmHIbQXguNLvOj-6" value="&#xa;Investors / Developers&#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="100" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rJXc0lbmHIbQXguNLvOj-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rJXc0lbmHIbQXguNLvOj-1" target="rJXc0lbmHIbQXguNLvOj-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="430" as="sourcePoint" />
+            <mxPoint x="490" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rJXc0lbmHIbQXguNLvOj-11" value="&#xa;Loan applications&#xa;&#xa;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="230" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rJXc0lbmHIbQXguNLvOj-12" value="&#xa;Property search / offers&#xa;&#xa;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="245" y="100" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rJXc0lbmHIbQXguNLvOj-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rJXc0lbmHIbQXguNLvOj-1" target="rJXc0lbmHIbQXguNLvOj-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="430" as="sourcePoint" />
+            <mxPoint x="460" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rJXc0lbmHIbQXguNLvOj-14" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="rJXc0lbmHIbQXguNLvOj-5" target="rJXc0lbmHIbQXguNLvOj-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="430" as="sourcePoint" />
+            <mxPoint x="310" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rJXc0lbmHIbQXguNLvOj-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.367;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="rJXc0lbmHIbQXguNLvOj-3" target="rJXc0lbmHIbQXguNLvOj-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="430" as="sourcePoint" />
+            <mxPoint x="460" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rJXc0lbmHIbQXguNLvOj-16" value="&lt;br&gt;Regulatory reports&amp;nbsp;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="425" y="300" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rJXc0lbmHIbQXguNLvOj-17" value="Policy Report" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="660" y="290" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rJXc0lbmHIbQXguNLvOj-18" value="Speculative Demand" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="100" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rJXc0lbmHIbQXguNLvOj-19" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rJXc0lbmHIbQXguNLvOj-6" target="rJXc0lbmHIbQXguNLvOj-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="430" as="sourcePoint" />
+            <mxPoint x="460" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rJXc0lbmHIbQXguNLvOj-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.433;exitY=0.983;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rJXc0lbmHIbQXguNLvOj-2" target="rJXc0lbmHIbQXguNLvOj-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="430" as="sourcePoint" />
+            <mxPoint x="460" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rJXc0lbmHIbQXguNLvOj-23" value="Valuation" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="190" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rJXc0lbmHIbQXguNLvOj-24" value="&#xa;Planning submissions&#xa;&#xa;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="760" y="190" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rJXc0lbmHIbQXguNLvOj-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.831;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.633;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="rJXc0lbmHIbQXguNLvOj-6" target="rJXc0lbmHIbQXguNLvOj-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="430" as="sourcePoint" />
+            <mxPoint x="460" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
